@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+rarfile==4.0
+patool==1.12
+python-magic==0.4.27
+Pillow==10.0.0
